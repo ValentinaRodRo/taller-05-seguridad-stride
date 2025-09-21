@@ -1,0 +1,169 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.2.3">
+  <diagram name="Página-1" id="sHbegwbEZbt_ThYLHIMj">
+    <mxGraphModel dx="3257" dy="1122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="96B2fh5O_CNNOLkAoWhu-0" />
+        <mxCell id="96B2fh5O_CNNOLkAoWhu-1" parent="96B2fh5O_CNNOLkAoWhu-0" />
+        <mxCell id="FvYXyEUzPeDCOkmjRhKx-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="96B2fh5O_CNNOLkAoWhu-1" source="FvYXyEUzPeDCOkmjRhKx-27" target="FvYXyEUzPeDCOkmjRhKx-31" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FvYXyEUzPeDCOkmjRhKx-27" value="Jefe de&amp;nbsp;&lt;div&gt;Producción&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="sketch=0;outlineConnect=0;fontColor=#000000;fillColor=#fa6800;strokeColor=#C73500;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.user;" parent="96B2fh5O_CNNOLkAoWhu-1" vertex="1">
+          <mxGeometry x="470" y="544" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="FvYXyEUzPeDCOkmjRhKx-28" value="Jefe&amp;nbsp;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(35, 47, 62), rgb(189, 199, 212));&quot;&gt;Administrativo&lt;/span&gt;&lt;/div&gt;" style="sketch=0;outlineConnect=0;fontColor=#000000;fillColor=#fa6800;strokeColor=#C73500;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.user;" parent="96B2fh5O_CNNOLkAoWhu-1" vertex="1">
+          <mxGeometry x="290" y="194" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="FvYXyEUzPeDCOkmjRhKx-29" value="Cliente" style="sketch=0;outlineConnect=0;fillColor=#fa6800;strokeColor=#C73500;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.user;fontColor=#000000;" parent="96B2fh5O_CNNOLkAoWhu-1" vertex="1">
+          <mxGeometry x="120" y="194" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="FvYXyEUzPeDCOkmjRhKx-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="96B2fh5O_CNNOLkAoWhu-1" source="FvYXyEUzPeDCOkmjRhKx-31" target="FvYXyEUzPeDCOkmjRhKx-46" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FvYXyEUzPeDCOkmjRhKx-31" value="Operarios de&amp;nbsp;&lt;div&gt;Producción&lt;/div&gt;" style="sketch=0;outlineConnect=0;fontColor=#000000;fillColor=#fa6800;strokeColor=#C73500;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.user;" parent="96B2fh5O_CNNOLkAoWhu-1" vertex="1">
+          <mxGeometry x="615.5" y="544" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="FvYXyEUzPeDCOkmjRhKx-32" value="" style="endArrow=classic;html=1;rounded=0;" parent="96B2fh5O_CNNOLkAoWhu-1" source="FvYXyEUzPeDCOkmjRhKx-29" target="FvYXyEUzPeDCOkmjRhKx-28" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="404" as="sourcePoint" />
+            <mxPoint x="390" y="354" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FvYXyEUzPeDCOkmjRhKx-33" value="Pedido&amp;nbsp;&lt;div&gt;inicial&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="FvYXyEUzPeDCOkmjRhKx-32" vertex="1" connectable="0">
+          <mxGeometry x="-0.1009" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FvYXyEUzPeDCOkmjRhKx-34" value="Mensajero" style="shape=mxgraph.signs.sports.dirt_bike;html=1;pointerEvents=1;fillColor=#f8cecc;strokeColor=#b85450;verticalLabelPosition=bottom;verticalAlign=top;align=center;" parent="96B2fh5O_CNNOLkAoWhu-1" vertex="1">
+          <mxGeometry x="680" y="186" width="99" height="94" as="geometry" />
+        </mxCell>
+        <mxCell id="FvYXyEUzPeDCOkmjRhKx-35" value="ERP Ocular" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="96B2fh5O_CNNOLkAoWhu-1" vertex="1">
+          <mxGeometry x="269" y="484" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FvYXyEUzPeDCOkmjRhKx-36" value="Registros&amp;nbsp;&lt;div&gt;manuales&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" parent="96B2fh5O_CNNOLkAoWhu-1" vertex="1">
+          <mxGeometry x="269" y="374" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FvYXyEUzPeDCOkmjRhKx-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="96B2fh5O_CNNOLkAoWhu-1" source="FvYXyEUzPeDCOkmjRhKx-38" target="FvYXyEUzPeDCOkmjRhKx-39" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FvYXyEUzPeDCOkmjRhKx-38" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#fff2cc;strokeColor=#d6b656;" parent="96B2fh5O_CNNOLkAoWhu-1" vertex="1">
+          <mxGeometry x="299" y="594" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FvYXyEUzPeDCOkmjRhKx-39" value="Backups&amp;nbsp;&lt;div&gt;automáticos&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="96B2fh5O_CNNOLkAoWhu-1" vertex="1">
+          <mxGeometry x="110" y="604" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FvYXyEUzPeDCOkmjRhKx-40" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="96B2fh5O_CNNOLkAoWhu-1" target="FvYXyEUzPeDCOkmjRhKx-36" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="314" as="sourcePoint" />
+            <mxPoint x="380" y="354" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FvYXyEUzPeDCOkmjRhKx-41" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="96B2fh5O_CNNOLkAoWhu-1" source="FvYXyEUzPeDCOkmjRhKx-36" target="FvYXyEUzPeDCOkmjRhKx-35" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="404" as="sourcePoint" />
+            <mxPoint x="380" y="354" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FvYXyEUzPeDCOkmjRhKx-42" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="96B2fh5O_CNNOLkAoWhu-1" source="FvYXyEUzPeDCOkmjRhKx-35" target="FvYXyEUzPeDCOkmjRhKx-38" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="404" as="sourcePoint" />
+            <mxPoint x="380" y="354" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FvYXyEUzPeDCOkmjRhKx-43" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="96B2fh5O_CNNOLkAoWhu-1" source="FvYXyEUzPeDCOkmjRhKx-35" target="FvYXyEUzPeDCOkmjRhKx-27" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="414" as="sourcePoint" />
+            <mxPoint x="520" y="364" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="420" y="514" />
+              <mxPoint x="420" y="584" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FvYXyEUzPeDCOkmjRhKx-44" value="Lentes listo para entregar" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" parent="96B2fh5O_CNNOLkAoWhu-1" vertex="1">
+          <mxGeometry x="810" y="384" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FvYXyEUzPeDCOkmjRhKx-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="96B2fh5O_CNNOLkAoWhu-1" source="FvYXyEUzPeDCOkmjRhKx-46" target="FvYXyEUzPeDCOkmjRhKx-44" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FvYXyEUzPeDCOkmjRhKx-46" value="&lt;div&gt;Producción de Lentes&lt;/div&gt;&lt;div&gt;- Cálculo óptico&lt;/div&gt;&lt;div&gt;- Talla digital&lt;/div&gt;&lt;div&gt;- Afinado&lt;/div&gt;&lt;div&gt;- Pulido&lt;/div&gt;&lt;div&gt;- Tratamientos (AR, TLX)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="96B2fh5O_CNNOLkAoWhu-1" vertex="1">
+          <mxGeometry x="560" y="364" width="189" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="FvYXyEUzPeDCOkmjRhKx-47" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.9;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="96B2fh5O_CNNOLkAoWhu-1" source="FvYXyEUzPeDCOkmjRhKx-44" target="FvYXyEUzPeDCOkmjRhKx-34" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="700" y="414" as="sourcePoint" />
+            <mxPoint x="750" y="364" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="870" y="233" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FvYXyEUzPeDCOkmjRhKx-48" value="Base de Datos" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="96B2fh5O_CNNOLkAoWhu-1" vertex="1">
+          <mxGeometry x="299" y="674" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FvYXyEUzPeDCOkmjRhKx-49" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.44;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" parent="96B2fh5O_CNNOLkAoWhu-1" source="FvYXyEUzPeDCOkmjRhKx-34" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="254" as="sourcePoint" />
+            <mxPoint x="170" y="184" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="724" y="124" />
+              <mxPoint x="170" y="124" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FvYXyEUzPeDCOkmjRhKx-50" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="96B2fh5O_CNNOLkAoWhu-1" source="FvYXyEUzPeDCOkmjRhKx-35" target="FvYXyEUzPeDCOkmjRhKx-46" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="570" y="504" as="sourcePoint" />
+            <mxPoint x="620" y="454" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="450" y="499" />
+              <mxPoint x="450" y="429" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FvYXyEUzPeDCOkmjRhKx-51" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="96B2fh5O_CNNOLkAoWhu-1" target="FvYXyEUzPeDCOkmjRhKx-44" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="434" as="sourcePoint" />
+            <mxPoint x="700" y="394" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="450" y="334" />
+              <mxPoint x="840" y="334" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IvqXyYPkNrjFrNpkHXds-0" value="&lt;strong data-end=&quot;402&quot; data-start=&quot;391&quot;&gt;Cliente&lt;/strong&gt;&lt;br data-end=&quot;405&quot; data-start=&quot;402&quot;&gt;&lt;br&gt;&lt;em data-end=&quot;440&quot; data-start=&quot;410&quot;&gt;&lt;b&gt;S:&lt;/b&gt; suplantación de identidad&lt;/em&gt;&lt;br data-end=&quot;443&quot; data-start=&quot;440&quot;&gt;&lt;br&gt;&lt;em data-end=&quot;465&quot; data-start=&quot;448&quot;&gt;&lt;b&gt;R:&lt;/b&gt; negar pedido&lt;/em&gt;&lt;br data-end=&quot;468&quot; data-start=&quot;465&quot;&gt;&lt;br&gt;&lt;em data-end=&quot;502&quot; data-start=&quot;473&quot;&gt;&lt;b&gt;I:&lt;/b&gt; fuga de datos personales&lt;/em&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FAC48A;strokeColor=#C73500;fontColor=#000000;" vertex="1" parent="96B2fh5O_CNNOLkAoWhu-1">
+          <mxGeometry x="-80" y="186" width="190" height="117" as="geometry" />
+        </mxCell>
+        <mxCell id="IvqXyYPkNrjFrNpkHXds-1" value="&lt;strong data-end=&quot;531&quot; data-start=&quot;508&quot;&gt;Jefe Administrativo&lt;/strong&gt;&lt;br data-end=&quot;534&quot; data-start=&quot;531&quot;&gt;&lt;br&gt;&lt;em data-end=&quot;556&quot; data-start=&quot;539&quot;&gt;&lt;b&gt;S:&lt;/b&gt; suplantación&lt;/em&gt;&lt;br data-end=&quot;559&quot; data-start=&quot;556&quot;&gt;&lt;br&gt;&lt;em data-end=&quot;601&quot; data-start=&quot;564&quot;&gt;&lt;b&gt;T:&lt;/b&gt; alteración en registros manuales&lt;/em&gt;&lt;br data-end=&quot;604&quot; data-start=&quot;601&quot;&gt;&lt;br&gt;&lt;em data-end=&quot;639&quot; data-start=&quot;609&quot;&gt;&lt;b&gt;R:&lt;/b&gt; negar registro del pedido&lt;/em&gt;&lt;br data-end=&quot;642&quot; data-start=&quot;639&quot;&gt;&lt;br&gt;&lt;em data-end=&quot;680&quot; data-start=&quot;647&quot;&gt;&lt;b&gt;I:&lt;/b&gt; fuga de información sensible&lt;/em&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FAC48A;strokeColor=#C73500;fontColor=#000000;" vertex="1" parent="96B2fh5O_CNNOLkAoWhu-1">
+          <mxGeometry x="395.5" y="159" width="220" height="144" as="geometry" />
+        </mxCell>
+        <mxCell id="IvqXyYPkNrjFrNpkHXds-2" value="&lt;strong data-end=&quot;708&quot; data-start=&quot;686&quot;&gt;Registros Manuales&lt;/strong&gt;&lt;br data-end=&quot;711&quot; data-start=&quot;708&quot;&gt;&lt;br&gt;&lt;em data-end=&quot;747&quot; data-start=&quot;716&quot;&gt;&lt;b&gt;T:&lt;/b&gt; manipulación de documentos&lt;/em&gt;&lt;br data-end=&quot;750&quot; data-start=&quot;747&quot;&gt;&lt;br&gt;&lt;em data-end=&quot;790&quot; data-start=&quot;755&quot;&gt;&lt;b&gt;R:&lt;/b&gt; repudio (difícil trazabilidad)&lt;/em&gt;&lt;br data-end=&quot;793&quot; data-start=&quot;790&quot;&gt;&lt;br&gt;&lt;em data-end=&quot;841&quot; data-start=&quot;798&quot;&gt;&lt;b&gt;I:&lt;/b&gt; pérdida/confidencialidad si se filtran&lt;/em&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="96B2fh5O_CNNOLkAoWhu-1">
+          <mxGeometry x="-40" y="351" width="230" height="124" as="geometry" />
+        </mxCell>
+        <mxCell id="IvqXyYPkNrjFrNpkHXds-3" value="&lt;strong data-end=&quot;861&quot; data-start=&quot;847&quot;&gt;ERP Ocular&lt;/strong&gt;&lt;br data-end=&quot;864&quot; data-start=&quot;861&quot;&gt;&lt;br&gt;&lt;em data-end=&quot;894&quot; data-start=&quot;869&quot;&gt;&lt;b&gt;S:&lt;/b&gt; credenciales robadas&lt;/em&gt;&lt;br data-end=&quot;897&quot; data-start=&quot;894&quot;&gt;&lt;br&gt;&lt;em data-end=&quot;945&quot; data-start=&quot;902&quot;&gt;&lt;b&gt;T:&lt;/b&gt; alterar órdenes de producción/facturas&lt;/em&gt;&lt;br data-end=&quot;948&quot; data-start=&quot;945&quot;&gt;&lt;br&gt;&lt;em data-end=&quot;979&quot; data-start=&quot;953&quot;&gt;&lt;b&gt;R:&lt;/b&gt; negar actualizaciones&lt;/em&gt;&lt;br data-end=&quot;982&quot; data-start=&quot;979&quot;&gt;&lt;br&gt;&lt;em data-end=&quot;1027&quot; data-start=&quot;987&quot;&gt;&lt;b&gt;I:&lt;/b&gt; fuga de datos clientes y producción&lt;/em&gt;&lt;br data-end=&quot;1030&quot; data-start=&quot;1027&quot;&gt;&lt;br&gt;&lt;em data-is-only-node=&quot;&quot; data-end=&quot;1050&quot; data-start=&quot;1035&quot;&gt;&lt;b&gt;D:&lt;/b&gt; DoS al ERP&lt;/em&gt;&lt;br data-end=&quot;1053&quot; data-start=&quot;1050&quot;&gt;&lt;br&gt;&lt;em data-end=&quot;1086&quot; data-start=&quot;1058&quot;&gt;&lt;b&gt;E:&lt;/b&gt; escalar usuario a admin&lt;/em&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="96B2fh5O_CNNOLkAoWhu-1">
+          <mxGeometry x="-350" y="351" width="250" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="IvqXyYPkNrjFrNpkHXds-4" value="&lt;strong data-end=&quot;1109&quot; data-start=&quot;1092&quot;&gt;Base de Datos&lt;/strong&gt;&lt;br data-end=&quot;1112&quot; data-start=&quot;1109&quot;&gt;&lt;br&gt;&lt;em data-end=&quot;1137&quot; data-start=&quot;1117&quot;&gt;&lt;b&gt;S: &lt;/b&gt;credenciales DB&lt;/em&gt;&lt;br data-end=&quot;1140&quot; data-start=&quot;1137&quot;&gt;&lt;br&gt;&lt;em data-end=&quot;1183&quot; data-start=&quot;1145&quot;&gt;&lt;b&gt;T: &lt;/b&gt;manipulación de pedidos/historial&lt;/em&gt;&lt;br data-end=&quot;1186&quot; data-start=&quot;1183&quot;&gt;&lt;br&gt;&lt;em data-end=&quot;1209&quot; data-start=&quot;1191&quot;&gt;&lt;b&gt;R:&lt;/b&gt; negar cambios&lt;/em&gt;&lt;br data-end=&quot;1212&quot; data-start=&quot;1209&quot;&gt;&lt;br&gt;&lt;em data-end=&quot;1241&quot; data-start=&quot;1217&quot;&gt;&lt;b&gt;I:&lt;/b&gt; exfiltración masiva&lt;/em&gt;&lt;br data-end=&quot;1244&quot; data-start=&quot;1241&quot;&gt;&lt;br&gt;&lt;em data-is-only-node=&quot;&quot; data-end=&quot;1265&quot; data-start=&quot;1249&quot;&gt;&lt;b&gt;D:&lt;/b&gt; DoS a la BD&lt;/em&gt;&lt;br data-end=&quot;1268&quot; data-start=&quot;1265&quot;&gt;&lt;br&gt;&lt;em data-end=&quot;1291&quot; data-start=&quot;1273&quot;&gt;&lt;b&gt;E: &lt;/b&gt;escalar a DBA&lt;/em&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="96B2fh5O_CNNOLkAoWhu-1">
+          <mxGeometry x="216.75" y="740" width="224.5" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="IvqXyYPkNrjFrNpkHXds-5" value="&lt;strong data-end=&quot;1320&quot; data-start=&quot;1297&quot;&gt;Backups Automáticos&lt;/strong&gt;&lt;br data-end=&quot;1323&quot; data-start=&quot;1320&quot;&gt;&lt;br&gt;&lt;em data-end=&quot;1362&quot; data-start=&quot;1328&quot;&gt;&lt;b&gt;S:&lt;/b&gt; acceso no autorizado a copias&lt;/em&gt;&lt;br data-end=&quot;1365&quot; data-start=&quot;1362&quot;&gt;&lt;br&gt;&lt;em data-end=&quot;1400&quot; data-start=&quot;1370&quot;&gt;&lt;b&gt;T: &lt;/b&gt;manipulación de respaldos&lt;/em&gt;&lt;br data-end=&quot;1403&quot; data-start=&quot;1400&quot;&gt;&lt;br&gt;&lt;em data-end=&quot;1431&quot; data-start=&quot;1408&quot;&gt;&lt;b&gt;R:&lt;/b&gt; negar restauración&lt;/em&gt;&lt;br data-end=&quot;1434&quot; data-start=&quot;1431&quot;&gt;&lt;br&gt;&lt;em data-end=&quot;1467&quot; data-start=&quot;1439&quot;&gt;&lt;b&gt;I:&lt;/b&gt; fuga de copias de datos&lt;/em&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="96B2fh5O_CNNOLkAoWhu-1">
+          <mxGeometry x="-140" y="650" width="190" height="176" as="geometry" />
+        </mxCell>
+        <mxCell id="IvqXyYPkNrjFrNpkHXds-6" value="&lt;strong data-end=&quot;1497&quot; data-start=&quot;1473&quot;&gt;Producción de Lentes&lt;/strong&gt;&lt;br data-end=&quot;1500&quot; data-start=&quot;1497&quot;&gt;&lt;br&gt;&lt;em data-end=&quot;1528&quot; data-start=&quot;1505&quot;&gt;&lt;b&gt;S:&lt;/b&gt; suplantar operario&lt;/em&gt;&lt;br data-end=&quot;1531&quot; data-start=&quot;1528&quot;&gt;&lt;br&gt;&lt;em data-end=&quot;1593&quot; data-start=&quot;1536&quot;&gt;&lt;b&gt;T:&lt;/b&gt; alterar parámetros (cálculo óptico, tallado, pulido)&lt;/em&gt;&lt;br data-end=&quot;1596&quot; data-start=&quot;1593&quot;&gt;&lt;br&gt;&lt;em data-end=&quot;1618&quot; data-start=&quot;1601&quot;&gt;&lt;b&gt;R:&lt;/b&gt; negar tareas&lt;/em&gt;&lt;br data-end=&quot;1621&quot; data-start=&quot;1618&quot;&gt;&lt;br&gt;&lt;em data-end=&quot;1665&quot; data-start=&quot;1626&quot;&gt;&lt;b&gt;I: &lt;/b&gt;fuga de especificaciones de lentes&lt;/em&gt;&lt;br data-end=&quot;1668&quot; data-start=&quot;1665&quot;&gt;&lt;br&gt;&lt;em data-is-only-node=&quot;&quot; data-end=&quot;1696&quot; data-start=&quot;1673&quot;&gt;&lt;b&gt;D:&lt;/b&gt; paro en maquinaria&lt;/em&gt;&lt;br data-end=&quot;1699&quot; data-start=&quot;1696&quot;&gt;&lt;br&gt;&lt;em data-end=&quot;1740&quot; data-start=&quot;1704&quot;&gt;&lt;b&gt;E: &lt;/b&gt;operario gana rol de supervisor&lt;/em&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="96B2fh5O_CNNOLkAoWhu-1">
+          <mxGeometry x="840" y="544" width="230" height="226" as="geometry" />
+        </mxCell>
+        <mxCell id="IvqXyYPkNrjFrNpkHXds-8" value="&lt;strong data-end=&quot;1768&quot; data-start=&quot;1746&quot;&gt;Jefe de Producción&lt;/strong&gt;&lt;br data-end=&quot;1771&quot; data-start=&quot;1768&quot;&gt;&lt;br&gt;&lt;em data-end=&quot;1809&quot; data-start=&quot;1776&quot;&gt;&lt;b&gt;T:&lt;/b&gt; alterar flujos de aprobación&lt;/em&gt;&lt;br data-end=&quot;1812&quot; data-start=&quot;1809&quot;&gt;&lt;br&gt;&lt;em data-end=&quot;1839&quot; data-start=&quot;1817&quot;&gt;&lt;b&gt;R:&lt;/b&gt; negar supervisión&lt;/em&gt;&lt;br data-end=&quot;1842&quot; data-start=&quot;1839&quot;&gt;&lt;br&gt;&lt;em data-end=&quot;1877&quot; data-start=&quot;1847&quot;&gt;&lt;b&gt;I:&lt;/b&gt; fuga de reportes internos&lt;/em&gt;&lt;br data-end=&quot;1880&quot; data-start=&quot;1877&quot;&gt;&lt;br&gt;&lt;em data-end=&quot;1909&quot; data-start=&quot;1885&quot;&gt;&lt;b&gt;E:&lt;/b&gt; escalar a admin ERP&lt;/em&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FAC48A;strokeColor=#C73500;fontColor=#000000;" vertex="1" parent="96B2fh5O_CNNOLkAoWhu-1">
+          <mxGeometry x="490" y="690" width="190" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="IvqXyYPkNrjFrNpkHXds-9" value="&lt;strong data-end=&quot;1942&quot; data-start=&quot;1915&quot;&gt;Operarios de Producción&lt;/strong&gt;&lt;br data-end=&quot;1945&quot; data-start=&quot;1942&quot;&gt;&lt;br&gt;&lt;em data-end=&quot;1980&quot; data-start=&quot;1950&quot;&gt;&lt;b&gt;S:&lt;/b&gt; suplantación de identidad&lt;/em&gt;&lt;br data-end=&quot;1983&quot; data-start=&quot;1980&quot;&gt;&lt;br&gt;&lt;em data-end=&quot;2019&quot; data-start=&quot;1988&quot;&gt;&lt;b&gt;T: &lt;/b&gt;manipulación de producción&lt;/em&gt;&lt;br data-end=&quot;2022&quot; data-start=&quot;2019&quot;&gt;&lt;br&gt;&lt;em data-end=&quot;2044&quot; data-start=&quot;2027&quot;&gt;&lt;b&gt;R:&lt;/b&gt; negar tareas&lt;/em&gt;&lt;br data-end=&quot;2047&quot; data-start=&quot;2044&quot;&gt;&lt;br&gt;&lt;em data-end=&quot;2081&quot; data-start=&quot;2052&quot;&gt;&lt;b&gt;I:&lt;/b&gt; fuga de diseños técnicos&lt;/em&gt;&lt;br data-end=&quot;2084&quot; data-start=&quot;2081&quot;&gt;&lt;br&gt;&lt;em data-is-only-node=&quot;&quot; data-end=&quot;2113&quot; data-start=&quot;2089&quot;&gt;&lt;b&gt;D:&lt;/b&gt; bloquear producción&lt;/em&gt;&lt;br data-end=&quot;2116&quot; data-start=&quot;2113&quot;&gt;&lt;br&gt;&lt;em data-end=&quot;2149&quot; data-start=&quot;2121&quot;&gt;&lt;b&gt;E:&lt;/b&gt; acceso indebido a roles&lt;/em&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FAC48A;strokeColor=#C73500;fontColor=#000000;" vertex="1" parent="96B2fh5O_CNNOLkAoWhu-1">
+          <mxGeometry x="487.5" y="870" width="195" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="IvqXyYPkNrjFrNpkHXds-10" value="&lt;strong data-end=&quot;2168&quot; data-start=&quot;2155&quot;&gt;Mensajero&lt;/strong&gt;&lt;br data-end=&quot;2171&quot; data-start=&quot;2168&quot;&gt;&lt;br&gt;&lt;em data-end=&quot;2207&quot; data-start=&quot;2176&quot;&gt;&lt;b&gt;S:&lt;/b&gt; suplantación en la entrega&lt;/em&gt;&lt;br data-end=&quot;2210&quot; data-start=&quot;2207&quot;&gt;&lt;br&gt;&lt;em data-end=&quot;2247&quot; data-start=&quot;2215&quot;&gt;&lt;b&gt;T:&lt;/b&gt; manipular estado de entrega&lt;/em&gt;&lt;br data-end=&quot;2250&quot; data-start=&quot;2247&quot;&gt;&lt;br&gt;&lt;em data-end=&quot;2273&quot; data-start=&quot;2255&quot;&gt;&lt;b&gt;R: &lt;/b&gt;negar entrega&lt;/em&gt;&lt;br data-end=&quot;2276&quot; data-start=&quot;2273&quot;&gt;&lt;br&gt;&lt;em data-end=&quot;2317&quot; data-start=&quot;2281&quot;&gt;&lt;b&gt;I:&lt;/b&gt; fuga de direcciones de clientes&lt;/em&gt;&lt;div&gt;&lt;em data-end=&quot;2317&quot; data-start=&quot;2281&quot;&gt;&lt;br&gt;&lt;/em&gt;&lt;/div&gt;&lt;div&gt;&lt;em data-end=&quot;2317&quot; data-start=&quot;2281&quot;&gt;&lt;b&gt;D: &lt;/b&gt;retraso intencional&lt;/em&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="96B2fh5O_CNNOLkAoWhu-1">
+          <mxGeometry x="779" y="34" width="200" height="176" as="geometry" />
+        </mxCell>
+        <mxCell id="IvqXyYPkNrjFrNpkHXds-12" value="&lt;strong data-end=&quot;2386&quot; data-start=&quot;2355&quot;&gt;Lentes listos para entregar&lt;/strong&gt;&lt;br data-end=&quot;2389&quot; data-start=&quot;2386&quot;&gt;&lt;br&gt;&lt;em data-end=&quot;2427&quot; data-start=&quot;2394&quot;&gt;&lt;b&gt;T:&lt;/b&gt; manipulación de estado final&lt;/em&gt;&lt;br data-end=&quot;2430&quot; data-start=&quot;2427&quot;&gt;&lt;br&gt;&lt;em data-end=&quot;2468&quot; data-start=&quot;2435&quot;&gt;&lt;b&gt;I:&lt;/b&gt; fuga de historial de pedidos&lt;/em&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="96B2fh5O_CNNOLkAoWhu-1">
+          <mxGeometry x="1020" y="297" width="180" height="137" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
